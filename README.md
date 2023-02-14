@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Multi-threaded Server Assignment</title>
+	
 </head>
 <body>
 	<header>
