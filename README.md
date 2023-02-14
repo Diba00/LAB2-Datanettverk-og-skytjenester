@@ -1,9 +1,7 @@
 # Lab2-datanettverk-og-skytjenester
 <!DOCTYPE html>
 <html>
-<head>
-	
-</head>
+
 <body>
 	<header>
 		<h1>Multi-threaded Server Assignment 🖥️💬👥</h1>
